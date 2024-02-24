@@ -26,6 +26,8 @@
     to prevent some funky scroll issues from happening.
   */
   position: relative;
+
+  display: inline;
 }
 
 .toggleButton[aria-pressed='true'] {
